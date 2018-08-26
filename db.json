@@ -1,0 +1,25 @@
+{
+"producs": [
+{"id":1,"name":"Bat, asian false vampire","category":"Fuscia"},
+{"id":2,"name":"Goose, snow","category":"Maroon"},
+{"id":3,"name":"Potoroo","category":"Crimson"},
+{"id":4,"name":"Dove, white-winged","category":"Purple"},
+{"id":5,"name":"Asian water dragon","category":"Crimson"},
+{"id":6,"name":"Bleeding heart monkey","category":"Violet"},
+{"id":7,"name":"Mongoose, small indian","category":"Purple"},
+{"id":8,"name":"Long-tailed jaeger","category":"Mauv"},
+{"id":9,"name":"Beaver, north american","category":"Maroon"},
+{"id":10,"name":"Lemming, collared","category":"Fuscia"},
+{"id":11,"name":"Wallaby, river","category":"Purple"},
+{"id":12,"name":"Little brown dove","category":"Mauv"},
+{"id":13,"name":"Stone sheep","category":"Fuscia"},
+{"id":14,"name":"Ant (unidentified)","category":"Teal"},
+{"id":15,"name":"Black-tailed deer","category":"Green"},
+{"id":16,"name":"Sociable weaver","category":"Goldenrod"},
+{"id":17,"name":"Spoonbill, european","category":"Purple"},
+{"id":18,"name":"Bleeding heart monkey","category":"Goldenrod"},
+{"id":19,"name":"Stork, yellow-billed","category":"Goldenrod"},
+{"id":20,"name":"Zorilla","category":"Yellow"}
+
+]
+}
